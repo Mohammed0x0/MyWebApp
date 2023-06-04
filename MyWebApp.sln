@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWebApp", "MyWebApp.csproj", "{996D4F28-BA1B-4EF0-B7AE-3E115451A9FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarehouseManagement", "..\WarehouseManagement\WarehouseManagement.csproj", "{9D5230CA-1A43-4CD1-9BA0-5986D310E929}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{996D4F28-BA1B-4EF0-B7AE-3E115451A9FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{996D4F28-BA1B-4EF0-B7AE-3E115451A9FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{996D4F28-BA1B-4EF0-B7AE-3E115451A9FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{996D4F28-BA1B-4EF0-B7AE-3E115451A9FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D5230CA-1A43-4CD1-9BA0-5986D310E929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D5230CA-1A43-4CD1-9BA0-5986D310E929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D5230CA-1A43-4CD1-9BA0-5986D310E929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D5230CA-1A43-4CD1-9BA0-5986D310E929}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22307002-47A1-4D2D-AFD4-0332C951BD2E}
+	EndGlobalSection
+EndGlobal
